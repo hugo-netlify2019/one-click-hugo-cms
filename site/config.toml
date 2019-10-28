@@ -1,6 +1,7 @@
 baseurl = "/"
 languageCode = "ja"
 languageLang = "ja"
+defaultContentLanguage = "ja"
 
 #languageCode = "en-us"
 #languageLang = "en"
