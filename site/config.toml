@@ -1,7 +1,10 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+languageCode = "ja"
+languageLang = "ja"
+
+#languageCode = "en-us"
+#languageLang = "en"
+title = "デモBTC2020"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
